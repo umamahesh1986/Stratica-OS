@@ -1,0 +1,9 @@
+DEVELOPMENT MOCK AUTH ONLY
+Demo emails: admin@demo.stratica, company@demo.stratica, distributor@demo.stratica, rep@demo.stratica. Use any password of 4+ characters.
+
+Dashboard	Demo email
+Stratica Admin	admin@demo.stratica
+Product Company Admin	company@demo.stratica
+Distributor Admin	distributor@demo.stratica
+Field Representative	rep@demo.stratica
+For example: admin@demo.stratica / demo1234. These are not Gmail accounts; the password is only a local demo value.
